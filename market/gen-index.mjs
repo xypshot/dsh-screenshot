@@ -50,8 +50,8 @@ const index = {
       name: pkg.name,
       title: { en: 'Screenshot', zh: '截图' },
       description: {
-        en: 'WeChat-style region screenshot below the composer: Alt+A, cross-monitor overlay, straight to the clipboard.',
-        zh: '对话框下方的微信式区域截图：Alt+A 快捷键、跨屏遮罩框选，截图直入剪贴板。',
+        en: "Snip, then paste it wherever you want. That's it? That's it!",
+        zh: '点选截图，然后粘贴到你想要的位置。就这？就这！',
       },
       icon: `data:image/svg+xml;base64,${iconB64}`,
       author: 'xypshot',

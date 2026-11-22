@@ -1,6 +1,6 @@
 {
   "name": "@local/dsh-screenshot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WeChat-style region screenshot for DSH: hotkey (Alt+A), cross-monitor overlay, straight to clipboard.",
   "license": "MIT",
   "type": "module",

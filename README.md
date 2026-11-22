@@ -1,6 +1,7 @@
 # dsh-screenshot — DSH 截图插件 / Screenshot Plugin for DeepSeek Harness
 
-在 DeepSeek Harness 对话框下方添加一个剪刀按钮：点击（或按全局快捷键 Alt+A）即可框选截图，图片直接进入剪贴板，支持跨多个显示器选取。/ Adds a scissors button below the DSH chat composer: click it (or press Alt+A) to snip a region across multiple monitors — the capture goes straight to your clipboard.
+点选截图，然后粘贴到你想要的位置。就这？就这！
+/ Snip, then paste it wherever you want. That's it? That's it!
 
 ![icon](icon.svg)
 

@@ -15,7 +15,7 @@
   },
   "plugins": [
     {
-      "name": "@local/dsh-screenshot",
+      "name": "@xypshot/dsh-screenshot",
       "title": {
         "en": "Screenshot",
         "zh": "截图"
@@ -45,12 +45,12 @@
       },
       "versions": [
         {
-          "version": "1.0.1",
-          "publishTimestamp": 1795328995,
+          "version": "1.0.2",
+          "publishTimestamp": 1795329248,
           "source": {
             "type": "git",
             "url": "https://github.com/xypshot/dsh-screenshot",
-            "commit": "20c10189c8500ad55ba7d4e64d11e86639887712"
+            "commit": "253b399cbdcbad77be271ed49ec4b945fd03b480"
           },
           "engines": {
             "dsh": ">=0.2.0"

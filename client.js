@@ -1,5 +1,5 @@
 window.__ModuleLoader__.load({
-  id: '@local/dsh-screenshot',
+  id: '@xypshot/dsh-screenshot',
   factory(require) {
     const React = require('react');
     const ReactDOM = require('react-dom');
@@ -436,7 +436,7 @@ window.__ModuleLoader__.load({
 
         ctx.slots.inject('conversation.composer.dock', () =>
           slots.register(
-            { name: 'conversation.composer.dock', id: 'dsh-screenshot', order: 10, label: 'Screenshot' },
+            { name: 'conversation.composer.dock', id: 'xypshot-screenshot', order: 10, label: 'Screenshot' },
             DockEntry,
           ),
         );

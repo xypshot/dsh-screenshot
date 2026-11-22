@@ -5,7 +5,7 @@ import { tmpdir } from 'node:os';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-export const name = 'dsh-screenshot';
+export const name = 'xypshot-screenshot';
 export const inject = ['webServer', 'connection'];
 
 const CAPTURE_TIMEOUT_MS = 300000;

@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Screenshot",
+    "description": "Adds a scissors button below the chat composer: click it (or press Alt+A), then drag a region — or click two corners — across multiple monitors if you like; the capture lands in your clipboard, ready to paste anywhere.",
+    "detail": "docs/detail.en.md"
+  }
+}
